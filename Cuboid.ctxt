@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=Cuboid
+comment1.params=length\ width\ height
+comment1.target=Cuboid(double,\ double,\ double)
+comment2.params=
+comment2.target=double\ calculateSurfaceArea()
+comment3.params=
+comment3.target=double\ calculateVolume()
+numComments=4

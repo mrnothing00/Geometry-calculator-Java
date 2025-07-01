@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=Shape
+comment1.params=length\ width\ radius\ base\ height
+comment1.target=Shape(double,\ double,\ double,\ double,\ double)
+comment2.params=
+comment2.target=double\ calculateSurfaceArea()
+comment3.params=
+comment3.target=double\ calculateVolume()
+comment4.params=
+comment4.target=boolean\ areInputsMissingForSurfaceArea()
+comment5.params=
+comment5.target=boolean\ areInputsMissingForVolume()
+numComments=6

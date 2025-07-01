@@ -1,0 +1,10 @@
+circle: Surface Area = 1661.90
+circle: Surface Area = 1661.90
+circle: Surface Area = 1661.90
+circle: Surface Area = 1963.50
+cuboid: Surface Area = 90990.00
+cuboid: Volume = 1057050.00
+sphere: Volume = 696909.97
+sphere: Surface Area = 38013.27
+rectangle: Surface Area = 207936.00
+triangle: Surface Area = 103968.00

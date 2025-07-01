@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=LoadListener
+comment1.params=displayArea
+comment1.target=LoadListener(javax.swing.JTextArea)
+comment2.params=e
+comment2.target=void\ actionPerformed(java.awt.event.ActionEvent)
+numComments=3

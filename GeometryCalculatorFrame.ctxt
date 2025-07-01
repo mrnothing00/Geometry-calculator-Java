@@ -1,0 +1,23 @@
+#BlueJ class context
+comment0.target=GeometryCalculatorFrame
+comment1.params=
+comment1.target=GeometryCalculatorFrame()
+comment10.params=shape
+comment10.target=void\ setCurrentShape(java.lang.String)
+comment2.params=
+comment2.target=void\ createMenuBar()
+comment3.params=shape\ keyEvent\ listener
+comment3.target=javax.swing.JMenuItem\ createMenuItem(java.lang.String,\ int,\ MenuActionListener)
+comment4.params=operation
+comment4.target=javax.swing.JButton\ createButton(java.lang.String)
+comment5.params=
+comment5.target=void\ createMainLayout()
+comment6.params=shape
+comment6.target=void\ updateLabels(java.lang.String)
+comment7.params=shape
+comment7.target=void\ setFieldsEditable(java.lang.String)
+comment8.params=
+comment8.target=void\ clearFields()
+comment9.params=operation
+comment9.target=void\ performCalculation(java.lang.String)
+numComments=11
