@@ -14,6 +14,3 @@ This Java-based application allows users to calculate area and volume for variou
 
 ## How to Run
 Compile all `.java` files and run `GeometryCalculatorApp.java`.
-
-## Author
-Nur Azalea Zafina binti Mohd Faizal | OOP Assignment 2025
